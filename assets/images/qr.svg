@@ -1,0 +1,13 @@
+<svg width="142" height="143" viewBox="0 0 142 143" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="24.022" y="23.0222" width="38.0444" height="38.0444" stroke="black" stroke-width="4"/>
+<rect x="24.022" y="80.8333" width="38.0444" height="38.0444" stroke="black" stroke-width="4"/>
+<rect x="81.8333" y="23.0222" width="38.0444" height="38.0444" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="31.5333" y2="-2" transform="matrix(1 0 0 -1 1 0)" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="31.5333" y2="-2" transform="matrix(0 1 1 0 4.07056 0)" stroke="black" stroke-width="4"/>
+<line x1="140.774" y1="2" x2="109.241" y2="2" stroke="black" stroke-width="4"/>
+<line x1="139.703" x2="139.703" y2="31.5333" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="31.5333" y2="-2" transform="matrix(0 -1 -1 0 1 142.077)" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="31.5333" y2="-2" transform="matrix(1 0 0 -1 1 139.006)" stroke="black" stroke-width="4"/>
+<line x1="138.774" y1="142.077" x2="138.774" y2="110.544" stroke="black" stroke-width="4"/>
+<line x1="140.774" y1="141.006" x2="109.241" y2="141.006" stroke="black" stroke-width="4"/>
+</svg>
