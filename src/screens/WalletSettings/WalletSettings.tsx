@@ -96,7 +96,7 @@ export const WalletSettingsScreen = () => {
         </View>
         <SettingsItem title="Open Wallet" />
         <SettingsItem title="Change Wallet" />
-        <SettingsItem title="Copy Adress" />
+        <SettingsItem title="Copy Address" />
         <SettingsItem title="Settings" />
       </View>
     </SafeAreaView>
